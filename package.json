@@ -1,0 +1,32 @@
+{
+  "name": "thompa",
+  "displayName": "Thompa",
+  "description": "Thompa themed theme",
+  "version": "0.0.1",
+  "publisher": "WilliamThompa",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WilliamThompa/ThompaTheme"
+  },
+  "keywords": [
+    "theme",
+    "thompa",
+    "forest",
+    "dark theme"    
+  ],
+  "engines": {
+    "vscode": "^1.88.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Thompa",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Thompa-color-theme.json"
+      }
+    ]
+  }
+}
