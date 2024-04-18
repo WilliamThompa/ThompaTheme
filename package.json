@@ -2,7 +2,7 @@
   "name": "thompa",
   "displayName": "Thompa",
   "description": "Thompa themed theme",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "WilliamThompa",
   "repository": {
     "type": "git",
@@ -12,7 +12,7 @@
     "theme",
     "thompa",
     "forest",
-    "dark theme"    
+    "dark theme"
   ],
   "engines": {
     "vscode": "^1.88.0"
