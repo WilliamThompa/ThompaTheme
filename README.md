@@ -1,2 +1,2 @@
 # ThompaTheme
-# A Theme made by meme centers around dark foresty colors
+# A Theme made by me centers around dark foresty colors
