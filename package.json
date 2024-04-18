@@ -4,6 +4,7 @@
   "description": "Thompa themed theme",
   "version": "1.0.2",
   "publisher": "WilliamThompa",
+  "icon": "Logo.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/WilliamThompa/ThompaTheme"
