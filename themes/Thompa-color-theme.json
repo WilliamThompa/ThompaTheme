@@ -27,7 +27,7 @@
 		"editor.findMatchBorder": "#304529",
 		"editor.findMatchHighlightBackground": "#30452993",
 		"editor.findMatchHighlightBorder": "#FFFFFF30",
-		"editor.foreground": "#6200ff",
+		"editor.foreground": "#FACC15",
 		"editor.lineHighlightBackground": "#0F172A50",
 		"editor.selectionBackground": "#2BAF6A30",
 		"editor.selectionHighlightBackground": "#3045296b",
@@ -312,7 +312,7 @@
 			"punctuation.definition.binding-pattern.object.js"
 		  ],
 		  "settings": {
-			"foreground": "#7afc00"
+			"foreground": "#2BAF6A"
 		  }
 		},
 		{
@@ -360,7 +360,7 @@
 			"markup.deleted.git_gutter"
 		  ],
 		  "settings": {
-			"foreground": "#FACC15"
+			"foreground": "#6200ff"
 		  }
 		},
 		{
