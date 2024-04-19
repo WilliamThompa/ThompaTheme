@@ -116,7 +116,7 @@
 		"notificationLink.foreground": "#304529",
 		"notifications.background": "#0F172A",
 		"notifications.foreground": "#FACC15",
-		"panel.background": "#0F172A",
+		"panel.background": "#141414",
 		"panel.border": "#0F172A60",
 		"panelTitle.activeBorder": "#304529",
 		"panelTitle.activeForeground": "#FFFFFF",
