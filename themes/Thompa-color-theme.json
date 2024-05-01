@@ -226,6 +226,7 @@
 			"punctuation.definition.interpolation.begin.bracket.curly.scss"
 		  ],
 		  "settings": {
+			"foreground": "#FACC15",
 			"fontStyle": "italic"
 		  }
 		},
